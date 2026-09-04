@@ -32,7 +32,8 @@ El proyecto debe explicar claramente el problema que busca resolver, demostrar q
 
 ### Aplicación al proyecto
 
-Nuestro proyecto busca preservar y transmitir la lengua materna de Santa María Cuquila mediante una plataforma comunitaria para consultar palabras, expresiones, pronunciaciones y conocimiento cultural.
+
+Nuestro proyecto busca preservar y transmitir la lengua materna de Santa María Cuquila mediante una plataforma comunitaria para consultar palabras, expresiones, pronunciaciones y conocimiento cultural. A si también enseñarle a las nuevas generaciones sobre esta lengua y buscar su preservación mediante este mecanismo.
 
 Una posible integración futura con Stellar podría utilizarse para mecanismos transparentes de apoyo y financiamiento del proyecto.
 
