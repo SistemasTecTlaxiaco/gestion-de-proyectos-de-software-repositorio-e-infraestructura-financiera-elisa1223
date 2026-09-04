@@ -36,7 +36,7 @@ Las necesidades y limitaciones relacionadas con el financiamiento, así como las
 * **Tecnología:** evaluación de las tecnologías que pueden formar parte de la solución, considerando blockchain únicamente cuando sea técnicamente justificable.
 * **Implementación:** aún no se considera terminada; las funcionalidades se encuentran sujetas a las decisiones y avances de las siguientes etapas.
 
-El proyecto continuará avanzando de manera incremental, priorizando primero la definición de las necesidades y la viabilidad de la solución, para posteriormente establecer las funcionalidades, componentes tecnológicos y mecanismos de implementación correspondientes.
+El proyecto continuará avanzando de manera incremental, priorizando primero la definición de las necesidades y la viabilidad de la solución, para posteriormente establecer las funcionalidades, componentes tecnológicos y mecanismos de implementación correspondientes para la realizacion.
 
 
 ## Equipo
