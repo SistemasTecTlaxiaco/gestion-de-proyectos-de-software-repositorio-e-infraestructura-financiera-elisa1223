@@ -179,6 +179,27 @@ La asignación anterior es una propuesta del equipo y no significa que el SCF ha
 
 ---
 
+## 5.1 Historias de usuario priorizadas
+
+A partir del backlog definido para el proyecto, se establecen las siguientes historias de usuario con el propósito de identificar las principales necesidades de los usuarios y establecer un orden de prioridad para el desarrollo del sistema.
+
+| ID | Historia de usuario | Prioridad | Fase |
+|---|---|---|---|
+| HU-01 | Como usuario quiero consultar palabras de la lengua materna para conocer su significado. | Alta | Planificación |
+| HU-02 | Como usuario quiero escuchar la pronunciación de las palabras para aprender a pronunciarlas correctamente. | Alta | Planificación |
+| HU-03 | Como usuario quiero consultar expresiones de Santa María Cuquila para conocer su uso y significado. | Alta | Ejecución |
+| HU-04 | Como usuario quiero consultar información cultural relacionada con las palabras para conocer su contexto. | Media | Ejecución |
+| HU-05 | Como administrador quiero agregar y actualizar palabras para mantener disponible el contenido de la plataforma. | Alta | Seguimiento |
+| HU-06 | Como administrador quiero revisar y validar el contenido antes de publicarlo para mantener la calidad de la información. | Media | Seguimiento |
+
+### Criterio de priorización
+
+Las historias de usuario fueron priorizadas considerando su importancia para la construcción del Producto Mínimo Viable (MVP). Las funciones relacionadas con la consulta de palabras y la pronunciación tienen una prioridad alta debido a que representan las funciones principales de la plataforma.
+
+Las funciones relacionadas con la consulta de expresiones e información cultural se consideran necesarias para complementar el contenido y proporcionar un contexto adecuado al usuario. Finalmente, las funciones administrativas de actualización y validación permiten mantener la calidad y disponibilidad de la información conforme el proyecto crezca.
+
+La priorización permite organizar el desarrollo de manera gradual, comenzando por las funcionalidades esenciales y posteriormente incorporando características complementarias y administrativas.
+
 ## 6. Hueco honesto
 
 Actualmente el proyecto **NO cumple todavía todos los requisitos técnicos necesarios para presentarse como un proyecto listo para recibir financiamiento on-chain**.
